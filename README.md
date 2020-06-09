@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/google/digitalassetlinks)
+
 #Digital Asset Links
 
 Digital Asset Links is a collection of data formats and protocols to manage
